@@ -24,6 +24,7 @@ Goiania, Brazil
 
 Vienna, Austria
 
+
 Melbourne, Australia
 
 Osaka, Japan
@@ -101,3 +102,13 @@ simla,india
 Vadodara, India
 
 Nakuru, Kenya
+
+Maiduguri, Nigeria
+
+Jalingo, Nigeria
+
+Lagos, Nigeria
+
+Abuja, Nigeria
+
+Kano, Nigeria 
