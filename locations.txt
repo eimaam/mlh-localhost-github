@@ -42,6 +42,7 @@ Copenhagen, Denmark
 
 Adelaide, Australia
 
+
 Miami, Florida
 
 Tulsa, Oklahoma
@@ -101,3 +102,13 @@ simla,india
 Vadodara, India
 
 Nakuru, Kenya
+
+Maiduguri, Nigeria
+
+Kano, Nigeria
+
+Lagos, Nigeria
+
+Jalingo, Nigeria
+
+Abuja, Nigeria
